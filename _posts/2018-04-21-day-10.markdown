@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Day 10 of 100"
+date:   2018-04-21 19:38:00 -0700
+categories: flexbox react
+---
+
+**Focus**: (Goal #2, #5, #9) JavaScript & HTML, Flexbox, and React 
+
+**Today's Progress**: 
+1. I solved an algorithm challege on Codewars using Array.prototype.reduce().
+2. I continued working with Flexbox properties in a responsive portfolio layout by adding new pages.
+3. I cloned a friend's github repo, to see if I can help solve her problems in her React application.  
+
+**Thoughts**: I am happy to finally implement the reduce method. I am trying to understand the philosophy behind building React applications vs. web applications built in other ways. I spent a lot of time today diagramming the component structure of the React version of the responsive portfolio. 
+
+**Link to work**: [Github Repo: portfolio-responsive](https://github.com/castlemaninc/portfolio-responsive)

@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 13 of 100"
+date:   2018-04-25 19:38:00 -0700
+categories: flexbox react
+---
+
+**Focus**: (Goal #4 Gulp, Goal #3 Sass, Goal #8 UI/UX , #12 WordPress Development & PHP)  
+
+**Today's Progress**: Have a basic outline of the new website established and some components established. 
+
+**Thoughts**: Trying to design a new UI/UX for a Dance Studio website. So far most of the work has been in pencil and paper, organizing the disarray of the current website. The rest of the time has been studying Wordpress development and PHP so I can add a custom theme. 

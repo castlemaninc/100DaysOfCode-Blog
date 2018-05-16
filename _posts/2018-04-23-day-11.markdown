@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 11 of 100"
+date:   2018-04-23 19:38:00 -0700
+categories: php wordpress
+---
+
+**Focus**: (Goal #12) Wordpress Development & PHP 
+
+**Today's Progress**: Learned how to write PHP variables, functions, and loops. I'm also learning how to integrate my own layouts in HTML, CSS, and JavaScript into Wordpress. 
+
+**Thoughts**: I'm hoping to go through this video series quickly so that I can build this site fast and move on to another project in React or Vue. 
+
+**Link to work**: [Github Repo: portfolio-responsive](https://github.com/castlemaninc/portfolio-responsive)

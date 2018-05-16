@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Day 12 of 100"
+date:   2018-04-24 19:38:00 -0700
+categories: filter map reduce algorithm
+---
+
+**Focus**: (Goal #13 JavaScript)  
+
+**Today's Progress**: I reviewed the filter, map, and reduce JavaScript methods. I also spent some time reading about aspects of a Free Code Camp Advanced Algorithm challenge called 'No Repeat'.   
+
