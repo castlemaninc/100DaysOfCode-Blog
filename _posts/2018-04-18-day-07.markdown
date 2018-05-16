@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 7 of 100"
+date:   2018-04-11 19:38:00 -0700
+categories: javascript
+---
+
+**Focus**: (Goal #2) JavaScript
+
+**Today's Progress**: I learned how to use the JavaScript array [reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce) method. 
+
+**Thoughts**: Learning 'higher-order functions' such as filter, map, and reduce method is a major step forward for me as a JavaScript developer. I am going to incorporate these into my code as much as possible.

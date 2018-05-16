@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 09 of 100"
+date:   2018-04-11 19:38:00 -0700
+categories: React
+---
+
+**Focus**: (Goal #9) React
+
+**Today's Progress**: I began to set up state in my latest React project.
+
+**Thoughts**: Throughout this building process I'm questioning how I can better diagram out the entire application on paper. 
+
+**Link to work**: [Github Repo: react-portfolio](https://github.com/castlemaninc/react-portfolio)

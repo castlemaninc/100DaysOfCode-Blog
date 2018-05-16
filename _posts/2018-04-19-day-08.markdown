@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Day 8 of 100"
+date:   2018-04-11 19:38:00 -0700
+categories: react
+---
+
+**Focus**: (Goal #9) React
+
+**Today's Progress**: Continuing to learn ReactJS, and about passing static props from a parent to a child.   
+
+**Thoughts**: I'm able to build a responsive portfolio website with HTML, CSS, JavaScript, and jQuery. However, rebuilding the same thing in ReactJS is very different process. 
+- In order to utilize Font Awesome an npm package is required. 
+- I also need to be able to replace animations created by jQuery.
+
+**Link to work**: [Portfolio project being built in React](https://github.com/castlemaninc/react-portfolio)
