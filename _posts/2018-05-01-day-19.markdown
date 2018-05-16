@@ -4,3 +4,11 @@ title:  "Day 19 of 100"
 date:   2018-05-01 19:38:00 -0700
 categories: 
 ---
+
+**Focus**: (Goal #5 Responsive Design, Goal #1 CSS)
+
+**Today's Progress**: I added my first breakpoint to the layout with CSS Media Queries, and added more content to the website.
+
+**Thoughts**: I need to enhance this layout with photos, .svg files, and some animation.       
+
+**Link to work**: [LonDance Github Repo]https://github.com/castlemaninc/lon-dance

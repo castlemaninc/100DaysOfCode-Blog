@@ -4,3 +4,9 @@ title:  "Day 20 of 100"
 date:   2018-05-02 19:38:00 -0700
 categories: 
 ---
+
+**Focus**: (Goal #2 ES6, Goal #9 React)
+
+**Today's Progress**: Set up new React project repo on Github and did some coding challenges in The Complete React Web Developer Course         
+
+**Link to work**: [Traditions Github Repo]https://github.com/castlemaninc/traditions

@@ -4,3 +4,9 @@ title:  "Day 21 of 100"
 date:   2018-05-03 19:38:00 -0700
 categories: 
 ---
+
+**Focus**: (Goal #2 ES6, Goal #9 React, Goal #5 Responsive Design)
+
+**Today's Progress**: Today's time was split between the LonDance project adding some scrolling animation and practicing writing ES6 code in ReactJS for a barbershop app.  
+
+**Link to work**: [LonDance Github Repo]https://github.com/castlemaninc/lon-dance
