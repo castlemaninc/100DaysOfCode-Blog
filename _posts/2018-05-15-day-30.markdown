@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Day 30 of 100"
+date:   2018-05-15 22:38:00 -0700
+categories: jekyll update
+---
+
+Today I installed Ruby on my machine in order to utilize Jekyll for this blog. I wanted to be able to quickly write a blog post in markdown and host it on Github Pages. 
+
+This morning I cleaned up code on in my personal portfolio. I deleted unused CSS code, and added comments. I also moved some scripts to my main JavaScript file.
