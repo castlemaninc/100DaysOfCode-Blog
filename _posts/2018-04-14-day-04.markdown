@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 4 of 100"
+date:   2018-04-14 19:52:00 -0700
+categories: CSS3 Flexbox CSS Grid
+---
+
+**Focus**: (Goal #1) CSS3 (CSS Grid, Flexbox, variables, etc.)
+
+**Today's Progress**: I gained a deeper understanding of flexbox properties by building something that demonstrates them visually.  
+
+**Thoughts**: I initially wanted to animate one flexbox property change to another, but learned that this is more difficult than I imagined it would be. I know it is possible with a library like Greensock. I want to make it work on all device sizes and add animations. I also want to add more flexbox properties and values. 
+
+**Link to work**: [Flexbox Visualizer](https://castlemaninc.github.io/flexbox-visualizer/)

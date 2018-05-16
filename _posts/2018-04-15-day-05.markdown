@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 5 of 100"
+date:   2018-04-15 11:19:31 -0700
+categories: GSAP Greensock
+---
+
+**Focus**: (Goals #2 & #11) JavaScript & GSAP (Greensock Animation Platform)
+
+**Today's Progress**: I got GSAP set up in my project, and animated an element on the screen. 
+
+**Thoughts**: I watched [Getting Started with GSAP (Greensock Animation Platform)](https://greensock.com/get-started-js) and was able to get GSAP working locally. I spent most of my day trying to figure out if I could animate or tween Flexbox property changes. I was unsuccesful in that regard. I plan to incorporate GSAP into my coding repertoire.
+
+**Link to work**: [Github Repo: DELETED](https://github.com/castlemaninc/gsap-1)

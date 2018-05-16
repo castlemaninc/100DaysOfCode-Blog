@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 1 of 100"
+date:   2018-04-11 19:38:00 -0700
+categories: 
+---
+
+**Focus**: (Goal #2) CSS Preprocesser
+
+**Today's Progress**: I wrote my first Sass and compiled it to CSS. 
+
+**Thoughts:** I wanted to get some experience writing SCSS and compiling it to CSS. I also wanted to practice CSS Animation. I compiled with a command every time I made changes. I would like to try gulp to take care of this for me. 
+
+**Link to work:** [Animated Spinner](https://castlemaninc.github.io/spinner/)

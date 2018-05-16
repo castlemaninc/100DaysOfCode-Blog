@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 2 of 100"
+date:   2018-04-12 16:32:00 -0700
+categories: CSS3
+---
+
+**Focus**: (Goal #1) CSS3
+
+**Today's Progress**: I learned more about the CSS box-shadow property and positioning elements to make use of the Z-axis with z-index. 
+
+**Thoughts**: After watching videos on Material Design. I made a quick project to practice the CSS box-shadow, CSS z-index property, and element positioning. Here is the Github repo.
+
+**Links to work**: [github repo](https://castlemaninc.github.io/googly/)
+				   [Googly](https://castlemaninc.github.io/googly/)

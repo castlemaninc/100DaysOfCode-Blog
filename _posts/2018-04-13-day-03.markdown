@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 3 of 100"
+date:   2018-04-13 12:31:01 -0700
+categories: SASS Gulp.js 
+---
+
+**Focus**: (Goals #3 & #4) Sass & Gulp.js
+
+**Today's Progress**: I wrote and used to gulp tasks succesfully. I was able to compile SCSS to CSS and have file changes automatically compiled with every file save. 
+
+**Thoughts**: I am happy about learning gulp. This was a mini milestone in my personal goals to become an employed Front End Developer. I was able to write more Sass too. 
+
+**Link to work**: [gulp & Sass](https://github.com/castlemaninc/day3-gulp-sass)

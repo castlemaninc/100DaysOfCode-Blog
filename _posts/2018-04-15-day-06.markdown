@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Day 6 of 100"
+date:   2018-04-17 16:32:00 -0700
+categories: JavaScript Algorithms
+---
+
+**Focus**: (Goal #2) JavaScript
+
+**Today's Progress**: Realizing that I need to learn the JavaScript reduce() method. 
+
+I made progress on re-writing my Front End Developer résumé. 
+
+**Thoughts**: I realized that I had already solved the Map the Debris algorithm challenge back in October 2017, so I worked on another one called [Exact Change](https://www.freecodecamp.org/challenges/exact-change). After struggling to find a solution to the Advanced Algorithm challenge, I read the hints provided. I realized that the solution to the problem used the reduce method which I don't fully understand. I really want to solve the problem for myself, and I will revisit this to complete on another day.
+
+**Link to challenge**: [Algorithm Challenge: Map the Debris](https://www.freecodecamp.org/challenges/map-the-debris)
