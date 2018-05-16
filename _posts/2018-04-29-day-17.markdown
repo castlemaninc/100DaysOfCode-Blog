@@ -11,4 +11,4 @@ categories: flexbox css preprocessing
 
 **Thoughts**: Flexbox and CSS Grid are amazing layout tools. 
 
-**Link to work**: [LonDance Github Repo]https://github.com/castlemaninc/lon-dance 
+**Link to work**: [LonDance Github Repo](https://github.com/castlemaninc/lon-dance) 

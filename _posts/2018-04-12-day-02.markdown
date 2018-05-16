@@ -11,5 +11,4 @@ categories: CSS3
 
 **Thoughts**: After watching videos on Material Design. I made a quick project to practice the CSS box-shadow, CSS z-index property, and element positioning. Here is the Github repo.
 
-**Links to work**: [github repo](https://castlemaninc.github.io/googly/)
-				   [Googly](https://castlemaninc.github.io/googly/)
+**Links to work**: [Googly](https://castlemaninc.github.io/googly/)

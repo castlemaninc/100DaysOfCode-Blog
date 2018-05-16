@@ -11,4 +11,4 @@ categories:
 
 **Thoughts:** I wanted to get some experience writing SCSS and compiling it to CSS. I also wanted to practice CSS Animation. I compiled with a command every time I made changes. I would like to try gulp to take care of this for me. 
 
-**Link to work:** [Animated Spinner](https://castlemaninc.github.io/spinner/)
+**Link to work:** [Animated-Spinner](https://castlemaninc.github.io/spinner/)

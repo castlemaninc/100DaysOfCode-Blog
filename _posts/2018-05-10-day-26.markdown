@@ -2,13 +2,13 @@
 layout: post
 title:  "Day 26 of 100"
 date:   2018-05-10 19:38:00 -0700
-categories: 
+categories: sass css jquery
 ---
 
-**Focus**: 
+**Focus**: Goals #1 CSS, #2 jQuery, #3 Sass
 
-**Today's Progress**:
+**Today's Progress**: 22 Github commits to the dance studio website project.
 
 **Thoughts**:
 
-**Link to work**: 
+**Link to work**: [live link to project in progress](https://castlemaninc.github.io/lon-dance/)

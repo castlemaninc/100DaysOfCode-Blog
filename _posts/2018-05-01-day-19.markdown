@@ -11,4 +11,4 @@ categories:
 
 **Thoughts**: I need to enhance this layout with photos, .svg files, and some animation.       
 
-**Link to work**: [LonDance Github Repo]https://github.com/castlemaninc/lon-dance
+**Link to work**: [LonDance Github Repo](https://github.com/castlemaninc/lon-dance)

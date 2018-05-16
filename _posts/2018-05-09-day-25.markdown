@@ -2,13 +2,13 @@
 layout: post
 title:  "Day 25 of 100"
 date:   2018-05-09 19:38:00 -0700
-categories: 
+categories: css combinator-selector
 ---
 
-**Focus**: 
+**Focus**: (Goal #1 CSS)
 
-**Today's Progress**:
+**Today's Progress**: I added some MaterializeCSS classes to my Pomodoro Clock app on Codepen. I also deleted the skills section from my portfolio website.
 
-**Thoughts**:
+**Thoughts**: I had to re-center icons inside of the Materialize buttons and the CSS child combinator selector (>) was useful in selecting the graphic.
 
-**Link to work**: 
+**Link to work**: [Pomodoro Clock](https://codepen.io/castlemaninc/pen/zdwGMK)

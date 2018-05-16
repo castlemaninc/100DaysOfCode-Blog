@@ -2,13 +2,13 @@
 layout: post
 title:  "Day 23 of 100"
 date:   2018-05-05 19:38:00 -0700
-categories: 
+categories: adobe-xd ui ux
 ---
 
-**Focus**: 
+**Focus**: (Goal #8 UI/UX)
 
-**Today's Progress**:
+**Today's Progress**: No coding today. I spent time learning Adobe XD and building a Web app layout.
 
-**Thoughts**:
+**Thoughts**: This is a quick way to build a app prototype, and to convey a concept to other people involved. I'll definitely utilize this.
 
 **Link to work**: 

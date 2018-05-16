@@ -11,4 +11,4 @@ categories: css grid flexbox responsive
 
 **Thoughts**: Building projects for real clients offers more real world challenges, and will be better for my portfolio since I have very little experience on my resume. 
 
-**Link to work**: [LonDance Repo]https://github.com/castlemaninc/lon-dance
+**Link to work**: [LonDance Repo](https://github.com/castlemaninc/lon-dance)

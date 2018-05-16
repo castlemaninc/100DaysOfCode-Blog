@@ -2,13 +2,13 @@
 layout: post
 title:  "Day 27 of 100"
 date:   2018-05-11 19:38:00 -0700
-categories: 
+categories: react constructor state bind
 ---
 
-**Focus**: 
+**Focus**: (Goal #9 ReactJS)
 
-**Today's Progress**:
+**Today's Progress**: Did some coding challenges in the ReactJS course on Udemy by Andrew Mead.
 
-**Thoughts**:
+**Thoughts**: I don't think we need the constructor function any longer, but the tutorial still uses it. It also uses super(props), and .bind(). But, I  may be wrong.
 
 **Link to work**: 

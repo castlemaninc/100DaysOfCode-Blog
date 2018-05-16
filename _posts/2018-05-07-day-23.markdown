@@ -5,10 +5,10 @@ date:   2018-05-07 19:38:00 -0700
 categories: 
 ---
 
-**Focus**: 
+**Focus**: (Goal #9 ReactJS, #8 UI/UX)
 
-**Today's Progress**:
+**Today's Progress**: I was writing ReactJS components today. I also recorded a walkthrough of my barbershop app concept in Adobe XD.
 
-**Thoughts**:
+**Thoughts**: I want to study UI & UX principles more.
 
 **Link to work**: 

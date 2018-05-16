@@ -2,13 +2,13 @@
 layout: post
 title:  "Day 28 of 100"
 date:   2018-05-12 19:38:00 -0700
-categories: 
+categories: xd ux ui
 ---
 
-**Focus**: 
+**Focus**: (Goal #8 UI/UX)
 
-**Today's Progress**:
+**Today's Progress**: Made a number of alterations to the barbershop website layout in Adobe XD.
 
-**Thoughts**:
+**Thoughts**: I want to spend time coding but I'm learning a lot thinking about desiging with UX in mind.
 
 **Link to work**: 

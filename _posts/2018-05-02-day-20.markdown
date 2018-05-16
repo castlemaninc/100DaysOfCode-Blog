@@ -9,4 +9,4 @@ categories:
 
 **Today's Progress**: Set up new React project repo on Github and did some coding challenges in The Complete React Web Developer Course         
 
-**Link to work**: [Traditions Github Repo]https://github.com/castlemaninc/traditions
+**Link to work**: [Barbershop Github Repo](https://github.com/castlemaninc/barbershop)

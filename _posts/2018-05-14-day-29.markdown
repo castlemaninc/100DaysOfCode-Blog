@@ -2,13 +2,13 @@
 layout: post
 title:  "Day 29 of 100"
 date:   2018-05-14 19:38:00 -0700
-categories: 
+categories: css ui ux pseudo
 ---
 
-**Focus**: 
+**Focus**: (Goal #1 CSS, #8 UI/UX)
 
-**Today's Progress**:
+**Today's Progress**: I used the ::before and ::after CSS properties to understand them better, after watching a tutorial on Youtube. I made some progress in creating a website prototype in Adobe XD.
 
-**Thoughts**:
+**Thoughts**: I want to create some exciting animations which has me researching SVG animation.
 
 **Link to work**: 

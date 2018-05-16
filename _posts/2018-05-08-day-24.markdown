@@ -5,10 +5,10 @@ date:   2018-05-08 19:38:00 -0700
 categories: 
 ---
 
-**Focus**: 
+**Focus**: (Goal #9 ReactJS, #8 UI/UX
 
 **Today's Progress**:
 
-**Thoughts**:
+**Thoughts**: I rewrote some React Components, studied Material Design design guidelines and color theory, and I worked in Adobe XD to make changes to my app flow.
 
 **Link to work**: 

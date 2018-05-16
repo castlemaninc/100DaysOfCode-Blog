@@ -2,13 +2,13 @@
 layout: post
 title:  "Day 22 of 100"
 date:   2018-05-04 19:38:00 -0700
-categories: 
+categories: es6 react responsive-design
 ---
 
-**Focus**: 
+**Focus**: (Goal #2 ES6, Goal #9 React, Goal #5 Responsive Design)
 
-**Today's Progress**:
+**Today's Progress**: In LonDance I added some small device navigation in html which still doesn't work, and added another breakpoint at 768px. For a React project I am creating a mockup and planning out the UI/UX on paper. I am also considering Adobe XD as a tool.
 
 **Thoughts**:
 
-**Link to work**: 
+**Link to work**: [Github Repo: LonDance](https://github.com/castlemaninc/lon-dance)
