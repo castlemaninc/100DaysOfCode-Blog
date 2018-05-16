@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 18 of 100"
+date:   2018-04-30 19:38:00 -0700
+categories: css jquery
+---
+
+**Focus**: (Goal #1 CSS, Goal #2 jQuery)
+
+**Today's Progress**: Added more styling, a new color theme, and some actions with jQuery. I'm getting faster with writing functions that animate scrolling. 
+
+**Thoughts** I want to turn the 100DaysOfCode Log into a nicer looking blog.   
+
+**Link to work**: [LonDance Github Repo]https://github.com/castlemaninc/lon-dance

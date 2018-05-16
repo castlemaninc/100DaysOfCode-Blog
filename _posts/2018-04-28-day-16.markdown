@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 16 of 100"
+date:   2018-04-28 19:38:00 -0700
+categories: flexbox css preprocessing
+---
+
+**Focus**: (Goal #1 Flexbox, Goal #3 CSS Preprocessing)
+
+**Today's Progress**: I built a large portion of the responsive layout which will be translated into a custom theme in Wordpress.  
+
+**Thoughts**: Flexbox and CSS Grid are amazing layout tools. 
+
+**Link to work**: [LonDance Github Repo]https://github.com/castlemaninc/lon-dance 

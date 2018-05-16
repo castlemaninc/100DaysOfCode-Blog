@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 15 of 100"
+date:   2018-04-27 19:38:00 -0700
+categories: wordpress php
+---
+
+**Focus**: (Goal #12 Wordpress Development & PHP)
+
+**Today's Progress** I learned more about the variety of Wordpress functions I could employ, and about dynamic navigation in WP
+
+**Thoughts**: At this point, I think I want to try to code things and utilize a Wordpress Cheat Sheet to see if I can solve problems on my own. 

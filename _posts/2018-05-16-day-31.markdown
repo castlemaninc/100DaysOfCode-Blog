@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 31 of 100"
+date:   2018-05-16 15:10:00 -0700
+categories: jekyll markdown resume applying jobs
+---
+
+**Focus**: 
+
+**Today's Progress**: My primary goal for today is to apply to at least 5 jobs, and spend about 2 hours on those applications.
+
+I'm also converting the last 30 days of my 100DaysOfCode log into markdown for this Jekyll blog.
+
+**Thoughts**: I'm juggling a Wordpress site, designing a layout in Adobe XD, applying to jobs, redacting my resume, etc. 
+

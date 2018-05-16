@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 14 of 100"
+date:   2018-04-26 19:38:00 -0700
+categories: css grid flexbox responsive
+---
+
+**Focus**: (Goal #1 CSS Grid and Flexbox,#3 Sass, #5 Responsive Design)  
+
+**Today's Progress**: Started building the dance studio layout in HTML and CSS. Used Sass partials for the first time and changed the Gulp task to compile all scss files into one CSS file.
+
+**Thoughts**: Building projects for real clients offers more real world challenges, and will be better for my portfolio since I have very little experience on my resume. 
+
+**Link to work**: [LonDance Repo]https://github.com/castlemaninc/lon-dance
