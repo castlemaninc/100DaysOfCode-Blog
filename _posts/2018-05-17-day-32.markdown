@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Day 32 of 100"
+date:   2018-05-17 15:10:00 -0700
+categories: css-variables regex
+---
+
+**Focus**: 
+
+**Today's Progress**: Today I finished redacting my résumé, and made it more visually exciting. 
+I practiced writing some new CSS variables. I some time reading an article on RegEx. 
+
+**Thoughts**: The CSS variable syntax is a little more typing than in Sass but I'll get used to it. 
