@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Day 33 of 100"
+date:   2018-05-21 15:10:00 -0700
+categories: css-grid 
+---
+
+**Focus**: Goal #1 CSS Grid
+
+**Today's Progress**:  
+
+**Thoughts**: 

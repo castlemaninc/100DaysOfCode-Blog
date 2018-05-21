@@ -5,7 +5,7 @@ date:   2018-05-17 15:10:00 -0700
 categories: css-variables regex
 ---
 
-**Focus**: 
+**Focus**: Goal #1 CSS Variables
 
 **Today's Progress**: Today I finished redacting my résumé, and made it more visually exciting. 
 I practiced writing some new CSS variables. I some time reading an article on RegEx. 
