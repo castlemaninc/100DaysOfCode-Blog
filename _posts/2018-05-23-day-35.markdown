@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Day 35 of 100"
+date:   2018-05-23 15:10:00 -0700
+categories: svg 
+---
+
+**Focus**: SVG
+
+**Today's Progress**: Learned about using symbols in SVG markup, and how to simplify the XML that is produced by Adobe Illustrator. 
+
+Also, I am attending a CSS workshop that is going to talk about algorithms in CSS. 
+
+**Thoughts**: 
+
+**Link**: 

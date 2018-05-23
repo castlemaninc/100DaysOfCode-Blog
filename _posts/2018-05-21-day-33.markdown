@@ -7,6 +7,12 @@ categories: css-grid
 
 **Focus**: Goal #1 CSS Grid
 
-**Today's Progress**:  
+**Today's Progress**: I looked at an old "pen" on Codepen that was no longer working and repaired it. The returned data from the API call had changed format. 
 
-**Thoughts**: 
+I polished up some of my other pens and incorporated some new CSS variable syntax. I updated a screenshot for the Twitch.TV app on my portfolio site and added a chevron down arrow to the home page. 
+
+I also watched about 15 videos in Wes Bos' CSS Grid class to see if I could improve my CSS Grid techniques.
+
+I also signed up for a CSS meetup in Culver City.   
+
+**Thoughts**: I need to work on passion projects and push the design in my work. 
