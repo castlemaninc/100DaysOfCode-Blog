@@ -5,10 +5,15 @@ date:   2018-05-22 15:10:00 -0700
 categories: svg 
 ---
 
-**Focus**: 
+**Focus**: SVG
 
-**Today's Progress**:   
+**Today's Progress**: I took a lot of notes and created an animation for the first exercise in an SVG online workshop.   
 
-**Thoughts**: 
+**Thoughts**: Using something to prettify the SVG code is a must. 
 
 **Link**: 
+- I watched some of Sarah Drasner's Advanced SVG Animation on Lynda.com https://www.lynda.com/Web-Development-tutorials/Advanced-SVG-Animation/604272-2.html
+
+- My really bad first SVG animation on CodePen 
+https://codepen.io/castlemaninc/pen/NMmRzJ
+
