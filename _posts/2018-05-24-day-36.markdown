@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Day 36 of 100"
+date:   2018-05-24 15:10:00 -0700
+categories: svg, codepen, illustrator, css transform 
+---
+
+**Focus**: SVG, CSS Transform, CSS Grid, ES6, 
+
+**Today's Progress**: Today I drew a Rubik's Cube in CSS using 3 CSS grids and the CSS transform property. I also drew an SVG image for the Classic 80's game called "Simon". I brought the SVG code into Codepen, and I am getting the game functional. 
+
+**Thoughts**: Drawing SVGs is a game-changer for me. I really like it and it opens up a lot of new ideas for me. 
+
+**Links**: Here are links to today's projects: 
+
+1. https://codepen.io/castlemaninc/pen/YLoWdK
+2. https://codepen.io/castlemaninc/pen/mLZyaB
