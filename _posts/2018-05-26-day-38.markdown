@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 38 of 100"
+date:   2018-05-26 15:10:00 -0700
+categories: es6 addEventListener
+---
+
+**Focus**: ES6 
+
+**Today's Progress**: The Simon app is almost fully functional. I solved a problem I was having with addEventListener.  
+
+**Thoughts**: I want to get this application working, and then I want to re-factor the code. I want to build things as smart as I can and keep my code DRY.  
+
+**Links**: https://codepen.io/castlemaninc/pen/YLoWdK
