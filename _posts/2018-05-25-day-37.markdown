@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 37 of 100"
+date:   2018-05-25 15:10:00 -0700
+categories: svg, codepen, illustrator
+---
+
+**Focus**: SVG, ES6 
+
+**Today's Progress**: Made a lot of headway on the Simon game I am building on Codepen. I improved the vector art, and made the svg code better.     
+
+**Thoughts**:  After starting to code the game Simon on Codepen, I realized that I needed to group parts in Adobe Illustrator layers to get groups in the SVG code. I also drew some button states, and all of the numbers for the scoreboard.
+
+**Links**: https://codepen.io/castlemaninc/pen/YLoWdK
