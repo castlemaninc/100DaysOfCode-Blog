@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 39 of 100"
+date:   2018-05-28 15:10:00 -0700
+categories: es6 addEventListener
+---
+
+**Focus**: ES6 
+
+**Today's Progress**: I worked on the Simon application some more and I only have one more thing to do to it, before it is done.   
+
+**Thoughts**: In hindsight, I would have built this in and Object Oriented way.   
+
+**Links**: https://codepen.io/castlemaninc/pen/YLoWdK
