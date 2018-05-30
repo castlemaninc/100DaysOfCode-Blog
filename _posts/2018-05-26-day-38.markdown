@@ -11,4 +11,4 @@ categories: es6 addEventListener
 
 **Thoughts**: I want to get this application working, and then I want to re-factor the code. I want to build things as smart as I can and keep my code DRY.  
 
-**Links**: https://codepen.io/castlemaninc/pen/YLoWdK
+**Links**: [Simon](https://codepen.io/castlemaninc/pen/YLoWdK)

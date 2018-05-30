@@ -11,4 +11,4 @@ categories: es6
 
 **Thoughts**: This was my first application with an SVG that I created. So that was an accomplishment. I'm going to review some games written in object-oriented JavaScript to think about how I could have coded this application differently.  
 
-**Links**: https://codepen.io/castlemaninc/pen/YLoWdK
+**Links**: [Simon](https://codepen.io/castlemaninc/pen/YLoWdK)

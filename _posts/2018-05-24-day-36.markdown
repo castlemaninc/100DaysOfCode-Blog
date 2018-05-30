@@ -13,5 +13,5 @@ categories: svg, codepen, illustrator, css transform
 
 **Links**: Here are links to today's projects: 
 
-1. https://codepen.io/castlemaninc/pen/YLoWdK
-2. https://codepen.io/castlemaninc/pen/mLZyaB
+1. [Simon](https://codepen.io/castlemaninc/pen/YLoWdK)
+2. [Rubik's Cube](https://codepen.io/castlemaninc/pen/mLZyaB)

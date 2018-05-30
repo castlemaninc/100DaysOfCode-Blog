@@ -12,8 +12,7 @@ categories: svg
 **Thoughts**: Using something to prettify the SVG code is a must. 
 
 **Link**: 
-- I watched some of Sarah Drasner's Advanced SVG Animation on Lynda.com https://www.lynda.com/Web-Development-tutorials/Advanced-SVG-Animation/604272-2.html
+- I watched some of Sarah Drasner's [Advanced SVG Animation](https://www.lynda.com/Web-Development-tutorials/Advanced-SVG-Animation/604272-2.html) on Lynda.com. 
 
-- My really bad first SVG animation on CodePen 
-https://codepen.io/castlemaninc/pen/NMmRzJ
+
 

@@ -11,4 +11,4 @@ categories: svg, codepen, illustrator
 
 **Thoughts**:  After starting to code the game Simon on Codepen, I realized that I needed to group parts in Adobe Illustrator layers to get groups in the SVG code. I also drew some button states, and all of the numbers for the scoreboard.
 
-**Links**: https://codepen.io/castlemaninc/pen/YLoWdK
+**Links**: [Simon](https://codepen.io/castlemaninc/pen/YLoWdK)

@@ -14,5 +14,5 @@ Also, I am attending a CSS workshop that is going to talk about algorithms in CS
 **Thoughts**: 
 
 **Links**: 
--The CSS.la Study Group is a part of LearnTeachCode https://www.meetup.com/LearnTeachCode
--The video series on SVG that I have found to be helpful is on Lynda.com and it is called Learning SVG https://www.lynda.com/SVG-tutorials/Learning-SVG/622089-2.html
+-The CSS.la Study Group is a part of [LearnTeachCode](https://www.meetup.com/LearnTeachCode)
+-The video series on SVG that I have found to be helpful is on Lynda.com and it is called [Learning SVG](https://www.lynda.com/SVG-tutorials/Learning-SVG/622089-2.html)
