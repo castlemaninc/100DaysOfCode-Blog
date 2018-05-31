@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 41 of 100"
+date:   2018-05-30 15:10:00 -0700
+categories: vue 
+---
+
+**Focus**: Vue.js
+
+**Today's Progress**: I learned about the Vue.js CLI, the component structure, input validation with Vee Validate, class and style binding, templating.   
+
+**Thoughts**: I want to try to do SVG animations inside of Vue.js. 
+
+**Link**: [The Ultimate Vue 2 Crash Course](https://www.udemy.com/vue-2-crash-course/learn/v4/overview)
