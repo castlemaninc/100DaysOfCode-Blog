@@ -7,7 +7,7 @@ categories: svg layout animation
 
 **Focus**: SVG, Layout, Animation
 
-**Today's Progress**: I learned about a new animation library called Anime.js and I also learned about using SVGs backgrounds in web design.    
+**Today's Progress**: I learned about a new animation library called Anime.js and I also learned about using SVGs backgrounds in web design.   
 
 **Thoughts**: This is very helpful to me since I have a lot of experience with Adobe Illustrator. I'm going to be able to incorporate this stuff into all of my layouts, relying less on designing and creating shapes with CSS alone.  
 
