@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 43 of 100"
+date:   2018-06-01 15:10:00 -0700
+categories: svg animation adobe illustrator
+---
+
+**Focus**: SVG, Layout, Animation
+
+**Today's Progress**: Drawing out the game board to a Tic-Tac-Toe game which will be created in all SVG.    
+
+**Thoughts**:   
+
+**Links**: 
+
