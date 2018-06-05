@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Day 45 of 100"
+date:   2018-06-04 15:10:00 -0700
+categories: svg greensock tic-tac-toe
+---
+
+**Focus**: SVG, Greensock GSAP
+
+**Today's Progress**: I was having trouble with a mouse event on a transparent SVG. I found out about 'pointer-events: bounding-box' which solved my problem. I was able to get the start button on the start screen to work, and for other svg elements to hide and show so that a player can begin a game. 
+
+I also was able to animate the grid lines on the Tic-Tac-Toe board with GSAP. 
+
+**Thoughts**: I really like SVG and Greensock. I need to learn how to modify the SVG code that Adobe Illustrator produces so that I can have efficient ways of displaying and hiding elements.   
+
+**Links**: [Tic Tac Toe](https://codepen.io/castlemaninc/pen/oyjRLM)
