@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Day 46 of 100"
+date:   2018-06-05 15:10:00 -0700
+categories: svg greensock tic-tac-toe
+---
+
+**Focus**: SVG, Algorithms
+
+**Today's Progress**: 
+
+**Thoughts**:    
+
+**Links**: [Tic Tac Toe](https://codepen.io/castlemaninc/pen/oyjRLM)
