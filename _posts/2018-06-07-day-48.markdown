@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 48 of 100"
+date:   2018-06-07 15:10:00 -0700
+categories: Vue Codepen
+---
+
+**Focus**: Vue.js Codepen
+
+**Today's Progress**: Today I watched Sarah Drasner and Chris Coyier do a walkthrough of Vue.js in Codepen. I downloaded Vue DevTools for Chrome. 
+
+**Thoughts**: I really want to focus on building things with Vue.js and wrap my head around this particular framework. 
+
+**Links**: 
+1. [Learning Vue](https://css-tricks.com/video-screencasts/159-learning-vue/)

@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Day 47 of 100"
+date:   2018-06-06 15:10:00 -0700
+categories: CORS Fetch GET POST JSON POSTMAN
+---
+
+**Focus**: Fetch, Coding Challenge, GET, POST
+
+**Today's Progress**: I worked on a 2-part coding challenge as part of a job application. The job application asked me to perform a GET to a URL with a few parameters. The second part asked me to perform a POST, passing in required headers, and send it in properly formatted JSON. 
+
+**Thoughts**: A couple of tools I utilized were JSONLint and POSTMAN.    
+
+**Links**: 
+1. [JSONLint](https://jsonlint.com/)
+2. [POSTMAN](https://www.getpostman.com/)
