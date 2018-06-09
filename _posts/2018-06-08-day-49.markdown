@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Day 49 of 100"
+date:   2018-06-08 15:10:00 -0700
+categories: Vue 
+---
+
+**Focus**: Vue.js 
+
+**Today's Progress**: I wrote some code in my Tic Tac Toe app to evaluate the game board and determine if there is a winner. I was able to use the forEach array function in my work. 
+
+I also continued to read about Vue.js on CSS-Tricks and in the official Vue Guide where I used the Vue DevTools to manipulate some of the examples. 
+
+**Links**: 
+1. [Vue Guide](https://vuejs.org/v2/guide/)
+2. [Intro to Vue.js: Components, Props, and Slots](https://css-tricks.com/intro-to-vue-2-components-props-slots/)
+3. [Tic Tac Toe](https://codepen.io/castlemaninc/pen/oyjRLM?editors=1111)
