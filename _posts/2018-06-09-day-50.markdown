@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 50 of 100"
+date:   2018-06-08 15:10:00 -0700
+categories: Vue 
+---
+
+**Focus**: Vue.js 
+
+**Today's Progress**: I followed along with the Intro to Vue.js course on Vue Mastery. I did a few coding challenges and was able to complete them all pretty easily. 
+
+**Thoughts**: The courses on here are really well done and I'm way more excited about building apps with Vue.js now. 
+
+**Links**: 
+1. [Vue Mastery - Courses](https://www.vuemastery.com/courses)
