@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Day 51 of 100"
+date:   2018-06-11 15:10:00 -0700
+categories: Vue Gold Silver 
+---
+
+**Focus**: Vue.js 
+
+**Today's Progress**: I finished more of the Intro to Vue.js tutorials and I started a new Vue.js project of my own. I'm recreating a gold/silver coin buying app that I began in ReactJS. I want to integrate an API for spot prices, so that coin prices can change.
+
+**Thoughts**: So far so good. 
+
+**Links**: 
+1. [v-coin-trader Github Project Repo](https://github.com/castlemaninc/v-coin-trader)
+2. [Vue Mastery - Courses](https://www.vuemastery.com/courses)

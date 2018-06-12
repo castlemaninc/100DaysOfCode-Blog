@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 50 of 100"
-date:   2018-06-08 15:10:00 -0700
+date:   2018-06-09 15:10:00 -0700
 categories: Vue 
 ---
 
