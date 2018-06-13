@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Day 52 of 100"
+date:   2018-06-12 15:10:00 -0700
+categories: Vue Gold Silver 
+---
+
+**Focus**: Vue.js 
+
+**Today's Progress**: I have most of the pieces working in my first Vue.js app. I was able to accomplish some attribute binding, conditional rendering, and some event handling. Except, I have one bug where the numerical input shows up in all input fields on the page. 
+
+**Thoughts**: I have to refactor the structure of the application into reusable components. If I can make my application work with real data that would be great. I think I can use Axios, but more research is necessary before I can do that.  
+
+**Links**: 
+1. [v-coin-trader Github Project Repo](https://github.com/castlemaninc/v-coin-trader)
+2. [Live Link](https://castlemaninc.github.io/v-coin-trader/)
