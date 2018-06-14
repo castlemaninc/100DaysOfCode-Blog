@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Day 53 of 100"
+date:   2018-06-13 15:10:00 -0700
+categories: Vue-CLI AdobeXD Vue Router
+---
+
+**Focus**: Vue.js 
+
+**Today's Progress**: I began to follow along with a tutorial that uses the Vue CLI to set up a new project. The project is a portfolio website. The first part of the tutorial demonstrated the design process in AdobeXD. 
+
+**Thoughts**: This is the workflow that I want to utilize in all of my projects from here on out. The Vue CLI is a better way to set up a project. It is a lot like create-react-app for React. 
+
+Some things I like about this tutorial is that the teacher, uses Sass instead of CSS, and also CSS grid.  
+
+**Links**: 
+1. [Using Vue 2 to Create Beautiful SEO-Ready Websites](https://coursetro.com/courses/24/Using-Vue-2-to-Create-Beautiful-SEO-Ready-Websites)
