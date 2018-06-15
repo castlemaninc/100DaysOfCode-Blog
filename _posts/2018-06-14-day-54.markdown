@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Day 54 of 100"
+date:   2018-06-14 15:10:00 -0700
+categories: Vue.js Vue-router CSS Animation
+---
+
+**Focus**: Vue.js 
+
+**Today's Progress**: I finished the tutorial series on Vue.js. 
+
+**Thoughts**: I'm now ready to start my own personal second Vue.js project, which will utilize the Vue CLI, CSS Animations, and Adobe XD for prototyping. 
+
+
+**Links**: 
+1. [Using Vue 2 to Create Beautiful SEO-Ready Websites](https://coursetro.com/courses/24/Using-Vue-2-to-Create-Beautiful-SEO-Ready-Websites)
