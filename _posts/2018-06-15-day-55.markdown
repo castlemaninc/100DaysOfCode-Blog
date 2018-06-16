@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Day 55 of 100"
+date:   2018-06-15 15:10:00 -0700
+categories: Vue.js Vue CLI
+---
+
+**Focus**: Vue.js 
+
+**Today's Progress**: Set up new Vue.js application on my local machine with the Vue CLI.  
+
+**Thoughts**:  I'm building my second Vue.js app. The main difference is that I am setting it up with the Vue CLI, and I'm going to be using the Vue Router and CSS Animations, which I haven't done on my own yet.
+
+
+**Links**: 
+1. [Using Vue 2 to Create Beautiful SEO-Ready Websites](https://coursetro.com/courses/24/Using-Vue-2-to-Create-Beautiful-SEO-Ready-Websites)
