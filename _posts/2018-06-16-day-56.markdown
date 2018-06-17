@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Day 56 of 100"
+date:   2018-06-16 15:10:00 -0700
+categories: Vue.js coin-trader 
+---
+
+**Focus**: Vue.js 
+
+**Today's Progress**: I decided to go back and work on my first Vue application so that I can fix the bug in the input forms, which caused the item numbers to show up in every single input box. I was able to fix the problem, and learned some new things in the Vue.js documentation such as .number modifier. 
+
+**Thoughts**: I think I might want to spend the rest of my 100 days learning only Vue so that I can progress further in one JS framework rather than jump back and forth between Vue and React.  
+
+
+**Links**: 
+1. [Live Project Link on Github Pages](https://castlemaninc.github.io/v-coin-trader/)
+2. [V-coin-trader Github Repo](https://github.com/castlemaninc/v-coin-trader)
+3. [Vue number modifier](https://vuejs.org/v2/guide/forms.html#number)
