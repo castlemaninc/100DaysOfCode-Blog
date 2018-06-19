@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Day 57 of 100"
+date:   2018-06-18 15:10:00 -0700
+categories: Vue.js coin-trader 
+---
+
+**Focus**: Vue.js 
+
+**Today's Progress**: Refactored some of my Vue.js code to a component structure, but I am having problems with conditional rendering, and some computed values 
+
+**Thoughts**: This is a good exercise, and I'm read to go hang out with people interested in Vue.js tomorrow. 
+
+
+**Links**: 
+1. [Live Project Link on Github Pages](https://castlemaninc.github.io/v-coin-trader/)
+2. [V-coin-trader Github Repo](https://github.com/castlemaninc/v-coin-trader)
