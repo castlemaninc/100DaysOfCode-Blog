@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Day 58 of 100"
+date:   2018-06-19 15:10:00 -0700
+categories: Vue.js coin-trader 
+---
+
+**Focus**: Vue.js Networking
+
+**Today's Progress**: I went to a Vue.js meetup at Learning Fuze in Irvine, CA. It was taught by a man named Kobi Levy from The CodeUp Club. The event was put on by JavaScriptLA. 
+
+I also continued to work with my first Vue.js application to break it down into components. 
+
+**Thoughts**: I need to go to more meetups. 
+
+
+**Links**: 
+1. [Live Project Link on Github Pages](https://castlemaninc.github.io/v-coin-trader/)
+2. [V-coin-trader Github Repo](https://github.com/castlemaninc/v-coin-trader)
+3. [CodeUpClub](http://www.codeupclub.com/)
+4. [JavaScriptLA](https://javascriptla.net/)
