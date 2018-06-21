@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Day 59 of 100"
+date:   2018-06-20 15:10:00 -0700
+categories: Vue.js udemy codesmith meetup higher-order-functions
+---
+
+**Focus**: Vue.js Networking
+
+**Today's Progress**: I went to an online meetup hosted by Codesmith, called JavaScript the Hard Parts, which was about functional programming and the underlying logic within "higher-order functions". 
+
+I also worked on learning Vue.js through another tutorial series on Udemy.  
+
+**Thoughts**: The Codesmith meetup was interesting. It was hosted online through Zoom. I'm interested in the upcoming topic of closures, and I'd like to be able to utilize that concept in my coding. 
+
+**Links**: 
+1. [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/learn/v4/overview)
