@@ -9,6 +9,7 @@ categories: Vue.js udemy meetup
 
 **Today's Progress**: Attended DTLA Community Hack Night at Nordstrom Rack/HauteLook! from Learn Teach Code LA. 
 
+I continued in my Vue.js course on Udemy where I did a challenge and I learned about Methods, Computed Properties, and Watch. 
 
 **Thoughts**: 
 
