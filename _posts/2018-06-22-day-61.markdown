@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 61 of 100"
+date:   2018-06-22 15:10:00 -0700
+categories: React.js freecodecamp 
+---
+
+**Focus**: React.js 
+
+**Today's Progress**: I did about 30 of the React exercises in the freeCodeCamp curriculum. 
+
+**Thoughts**: It's nice to revisit React.js concepts to see what I remember after spending time with Vue.js. I'm interested to see how far along I can get with freeCodeCamp's section on Redux and then React and Redux combined. 
+
+**Links**: 
+1. [React | freeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/react)
