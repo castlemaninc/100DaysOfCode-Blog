@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 62 of 100"
+date:   2018-06-23 15:10:00 -0700
+categories: React.js freecodecamp 
+---
+
+**Focus**: React.js 
+
+**Today's Progress**: I did about 3 of the React exercises in the freeCodeCamp curriculum. 
+
+**Thoughts**: It was a slow day on the coding front due to the fact that my 1 year old son woke me up too early. 
+
+**Links**: 
+1. [React | freeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/react)
