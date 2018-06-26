@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 63 of 100"
+date:   2018-06-25 15:10:00 -0700
+categories: Visual Design CSS HTML freecodecamp 
+---
+
+**Focus**: Applied Visual Design 
+
+**Today's Progress**: I did about 20 modules in the Applied Visual Design section of the freeCodeCamp curriculum. I learned about some HTML tags that I rarely see. 
+
+**Thoughts**: Most of this has been review for me but I'm still curious about what is contained in this section of their curriculum. 
+
+**Links**: 
+1. [Applied Visual Design | freeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
