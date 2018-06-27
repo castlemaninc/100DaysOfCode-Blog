@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 64 of 100"
+date:   2018-06-26 15:10:00 -0700
+categories: Sass freecodecamp 
+---
+
+**Focus**: Sass
+
+**Today's Progress**: I finished all of the Sass modules in the freeCodeCamp curriculum. 
+
+**Thoughts**: This was an easy way to try some of the Sass features that I haven't used yet, such as extending a class, and writing a @while loop, or using @each, or writing conditional logic with @if and @else. 
+
+**Links**: 
+1. [Sass | freeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/sass)
